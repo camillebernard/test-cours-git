@@ -1,1 +1,3 @@
 # test-cours-git
+
+ Ce projet vise à ...
