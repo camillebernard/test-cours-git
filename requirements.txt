@@ -1,0 +1,7 @@
+pandas
+numpy
+streamlit
+plotly
+plotly.express
+streamlit_dynamic_filters
+
